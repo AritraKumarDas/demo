@@ -34,7 +34,7 @@ Run the Flask app using the following command:
 ```
 python app.py
  ```
-# 6. Access the App:
+### 6. Access the App:
 Once the app is running, open the web browser and navigate to the address where the Flask app is running
 (usually http://localhost:5000 by default).
 
