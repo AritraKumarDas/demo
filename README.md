@@ -15,7 +15,7 @@ pip install -r requirements.txt
  
 ### 3. Set Up MySQL Database:
 Ensure that MySQL server is running on the local machine. Create a new database for the Flask app (preferrably like "users_db").
-**Go to mysql workbench**
+> **Go to mysql workbench**
 ```
 create database users_db;
 ```
