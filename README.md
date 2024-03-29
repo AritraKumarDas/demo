@@ -3,9 +3,9 @@
 ### 1. Clone the Repository:
 
 First, clone the GitHub repository containing the Flask app to the local machineusing the git clone command:
-'''
+```
 git clone <repository_url>
-'''
+```
 	
 ### 2. Install Dependencies:
 	Navigate to the project directory and install the required dependencies. Use pip to install them from the requirements.txt file:
